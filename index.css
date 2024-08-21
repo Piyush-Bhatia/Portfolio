@@ -10,7 +10,6 @@ body{
 
 .nav-link:hover, .links-list-item:hover{
   text-decoration: underline;
-  transition: 5s;
 }
 
 .links-list-item{
@@ -70,5 +69,14 @@ body{
 
 
 .icon{
-  font-size: x-large;
+  font-size: xx-large;
+}
+
+.mar{
+  margin: 90px 0px;
+}
+
+.wrapper{  
+  position: relative;
+  bottom: 100px;
 }
