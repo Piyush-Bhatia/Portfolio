@@ -25,7 +25,7 @@ body{
   border-radius:20px;
 }
 
-.full-stack{
+.full-stack, .git{
   font-weight: 400;
   text-shadow: 0px 0px 10px 10px;
   background: -webkit-linear-gradient(right, orangered, rgb(156, 26, 195), rgba(0, 157, 255, 0.774));
@@ -80,3 +80,26 @@ body{
   position: relative;
   bottom: 100px;
 }
+
+.inp{
+  border-radius: 10px;
+}
+
+.git{
+  font-weight: 600;
+}
+
+.contact-section:hover h1{
+  text-decoration: underline;
+}
+.git{
+  letter-spacing: 9px;
+}
+/* 
+
+@keyframes light
+{
+  0% {color: black;}
+  50% {color: darkgoldenrod}
+  100%{ color: gold;}
+} */
