@@ -101,12 +101,3 @@ body{
   font-weight: 500;
   font-size: larger;
 }
-
-/* 
-
-@keyframes light
-{
-  0% {color: black;}
-  50% {color: darkgoldenrod}
-  100%{ color: gold;}
-} */
