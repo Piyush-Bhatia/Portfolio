@@ -101,3 +101,12 @@ body{
   font-weight: 500;
   font-size: larger;
 }
+
+.navlinks{
+  font-weight: 800;
+  letter-spacing: 2px;
+  text-shadow: 0px 0px 10px 10px;
+  background: -webkit-linear-gradient(right, black, white);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
