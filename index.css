@@ -92,9 +92,16 @@ body{
 .contact-section:hover h1{
   text-decoration: underline;
 }
+
 .git{
   letter-spacing: 9px;
 }
+
+.footer-div{
+  font-weight: 500;
+  font-size: larger;
+}
+
 /* 
 
 @keyframes light
